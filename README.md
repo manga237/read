@@ -3,9 +3,9 @@
 
 ## visiter google ![GO](https://img.shields.io/badge/google-gray?logo=go)
 
-![Google](https://img.shields.io/badge/google-green?logo=google)
-[visiter Google](https://www.google.com)
-<img src="https://img.shields.io/badge/google-gray?logo=go)" height="100" width="300" alt="Logo">
+* ![Google](https://img.shields.io/badge/google-green?logo=google)
+* [visiter Google](https://www.google.com)
+* <img src="https://img.shields.io/badge/google-gray?logo=go" height="100" width="300" alt="Logo">
 
 ## Logo de solide ![solide](./re.png)
 
@@ -45,7 +45,7 @@ sudo apt update
 sudo apt upgrade
 ```
 
-## TITRE 4 <img src="./re.png" width="100" height="100" alt="Logo">
+## TITRE 4 <img src="./re.png" width="30" height="20" alt="Logo">
 4. INFOS
 > une citation
 
