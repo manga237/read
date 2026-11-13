@@ -52,6 +52,10 @@ sudo apt upgrade
 > [!TIP]
 >une astuce pour les utilisateurs
 
+> [!TIP]
+> **Conseil :** voici un guide personnalisé
+>une astuce pour les utilisateurs
+
 >[!WARNING]
 >un avertissement je crois
 
