@@ -13,7 +13,7 @@
 - [Titre 1](#titre-1)
 - [Titre 2](#titre-2)
 - [Titre 3](#titre-3)
-- [TItre 4](#titre-4)
+- [TItre 4](#titre-4-)
 
 ## TITRE 1
 
@@ -40,12 +40,12 @@ on:
 ## TITRE 3
 3. BASH
 
-```bash
+```sh
 sudo apt update
 sudo apt upgrade
 ```
 
-## TITRE 4 <img src="./re.png" width="30" height="20" alt="Logo">
+## TITRE 4 <img src="./re.png" width="30" height="30" alt="Logo">
 4. INFOS
 > une citation
 
