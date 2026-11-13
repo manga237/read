@@ -10,10 +10,10 @@
 ## Logo de solide ![solide](./re.png)
 
 # TABLE DES MATIÈRES
-- [Titre 1](#titre-1)
-- [Titre 2](#titre-2)
-- [Titre 3](#titre-3)
-- [TItre 4](#titre-4-)
+1. [Titre 1](#titre-1)
+2. [Titre 2](#titre-2)
+3. [Titre 3](#titre-3)
+4. [Titre 4](#titre-4-)
 
 ## TITRE 1
 
@@ -54,3 +54,12 @@ sudo apt upgrade
 
 >[!WARNING]
 >un avertissement je crois
+
+>[!IMPORTANT]
+> un message important
+
+>[!CAUTION]
+> UNE CAUTION
+
+>[!NOTE]
+> une simple note
