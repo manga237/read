@@ -1,9 +1,9 @@
 # BIENVENUE DANS NOTRE README!!!
 
 
-## visiter google ![Static-Badge](https:https://img.shields.io/badge/google-green?logo=go)
+## visiter google ![GO](https://img.shields.io/badge/google-green?logo=go)
 
-![Google](https:https://img.shields.io/badge/google-green?logo=go)
+![Google](https://img.shields.io/badge/google-green?logo=google)
 [visiter Google](https://www.google.com)
 
 ## Logo de solide ![solide](./re.png)
