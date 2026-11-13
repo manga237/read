@@ -1,10 +1,11 @@
 # BIENVENUE DANS NOTRE README!!!
 
 
-## visiter google ![GO](https://img.shields.io/badge/google-green?logo=go)
+## visiter google ![GO](https://img.shields.io/badge/google-gray?logo=go)
 
 ![Google](https://img.shields.io/badge/google-green?logo=google)
 [visiter Google](https://www.google.com)
+<img src="https://img.shields.io/badge/google-gray?logo=go)" height="100" width="300" alt="Logo">
 
 ## Logo de solide ![solide](./re.png)
 
@@ -12,6 +13,7 @@
 - [Titre 1](#titre-1)
 - [Titre 2](#titre-2)
 - [Titre 3](#titre-3)
+- [TItre 4](#titre-4)
 
 ## TITRE 1
 
@@ -43,7 +45,7 @@ sudo apt update
 sudo apt upgrade
 ```
 
-## TITRE 4
+## TITRE 4 <img src="./re.png" width="100" height="100" alt="Logo">
 4. INFOS
 > une citation
 
